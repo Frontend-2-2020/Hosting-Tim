@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Hosting-Tim/static/js/main.593f309e.chunk.js",
+    "main.js.map": "/Hosting-Tim/static/js/main.593f309e.chunk.js.map",
+    "runtime-main.js": "/Hosting-Tim/static/js/runtime-main.cb10afaa.js",
+    "runtime-main.js.map": "/Hosting-Tim/static/js/runtime-main.cb10afaa.js.map",
+    "static/css/2.fdc75ec3.chunk.css": "/Hosting-Tim/static/css/2.fdc75ec3.chunk.css",
+    "static/js/2.04cabc0a.chunk.js": "/Hosting-Tim/static/js/2.04cabc0a.chunk.js",
+    "static/js/2.04cabc0a.chunk.js.map": "/Hosting-Tim/static/js/2.04cabc0a.chunk.js.map",
+    "index.html": "/Hosting-Tim/index.html",
+    "precache-manifest.6f76bfbd972f04a20a1137185b8221a1.js": "/Hosting-Tim/precache-manifest.6f76bfbd972f04a20a1137185b8221a1.js",
+    "service-worker.js": "/Hosting-Tim/service-worker.js",
+    "static/css/2.fdc75ec3.chunk.css.map": "/Hosting-Tim/static/css/2.fdc75ec3.chunk.css.map",
+    "static/js/2.04cabc0a.chunk.js.LICENSE.txt": "/Hosting-Tim/static/js/2.04cabc0a.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Hosting-Tim/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb10afaa.js",
+    "static/css/2.fdc75ec3.chunk.css",
+    "static/js/2.04cabc0a.chunk.js",
+    "static/js/main.593f309e.chunk.js"
+  ]
+}
